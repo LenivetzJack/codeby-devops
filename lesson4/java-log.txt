@@ -1,0 +1,40 @@
+Script started on 2023-10-31 22:51:48+03:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="163" LINES="55"]
+                                                                                                                                                                   ]0;root@codebydevops: /home/kali[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿codebydevops[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mexit[39m[36mj[36mo[36mb[36ms[39m[36mk[36mi[36ml[36ml[39m %1[36mj[36mo[36mb[36ms[39m [32m-[32ml[39m[36mk[36mi[36ml[36ml[39m [39m%[39m1[36mj[36mo[36mb[36ms[39m   [36me[36mx[36mi[36mt[39m[39m [39m [39m [39m [1mj[0m[1mj[0m[38;2;153;153;153mobs[39m[1mj[39m[1ma[0m[39m [39m [1mj[1ma[1mv[0m[0m[36mj[0m[36ma[0m[36mv[36ma[39m [32m-[39m[32m-[32mv[39m[32mv[32me[39m[32me[32mr[39m[32mr[32ms[39m[32ms[32mi[39m[32mi[32mo[39m[32mo[32mn[39m[?1l>[?2004l
+openjdk version "17.0.9" 2023-10-17
+OpenJDK Runtime Environment (build 17.0.9+9-Debian-1)
+OpenJDK 64-Bit Server VM (build 17.0.9+9-Debian-1, mixed mode, sharing)
+                                                                                                                                                                   ]0;root@codebydevops: /home/kali
+[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿codebydevops[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1m[7m/home/kali/Downloads/jdk-21.0.1/[0m[27m[32D[27m[1m/[27m[1mh[27m[1mo[27m[1mm[27m[1me[27m[1m/[27m[1mk[27m[1ma[27m[1ml[27m[1mi[27m[1m/[27m[1mD[27m[1mo[27m[1mw[27m[1mn[27m[1ml[27m[1mo[27m[1ma[27m[1md[27m[1ms[27m[1m/[27m[1mj[27m[1md[27m[1mk[27m[1m-[27m[1m2[27m[1m1[27m[1m.[27m[1m0[27m[1m.[27m[1m1[0m[0m[27m [1m.[0m[0m [1m0[0m[0m [1m.[0m[0m [1m1[0m[0m [1m2[0m[0m [1m-[0m[0m [1mk[0m[0m [1md[0m[0m [1mj[0m[0m [1m/[0m[0m [1ms[0m[0m [1md[0m[0m [1ma[0m[0m [1mo[0m[0m [1ml[0m[0m [1mn[0m[0m [1mw[0m[0m [1mo[0m[0m [1mD[0m[0m [1m/[0m[0m [1mi[0m[0m [1ml[0m[0m [1ma[0m[0m [1mk[0m[0m [1m/[0m[0m [1me[0m[0m [1mm[0m[0m [1mo[0m[0m [1m/[1mh[0m[0m [1m/[0m[0m [0m [4m[37mu[24m[39m[4m[37mu[4m[37mp[24m[39m[4m[37mu[4m[37mp[4m[37md[24m[39m[4m[37md[4m[37ma[24m[39m[4m[37ma[4m[37mt[24m[39m[4m[37mt[4m[37me[24m[39m[24m[39mu[24m[39mp[24m[39md[24m[39ma[24m[39mt[24m[39me
+Completing external command
+[0mupdate-alternatives         update-desktop-database     update-gsfontmap            update-language-lua         update-smart-drivedb      
+update-ca-certificates      update-dictcommon-aspell    update-icon-caches          update-locale               update-texmf              
+update-catalog              update-dictcommon-hunspell  update-ieee-data            update-mime                 update-texmf-config       
+update-command-not-found    update-fmtutil              update-inetd                update-mime-database        update-tl-stacked-conffile
+updatedb                    update-fonts-alias          update-initramfs            update-passwd               update-updmap             
+updatedb.plocate            update-fonts-dir            update-java-alternatives    update-pciids               update-xmlcatalog         
+update-default-aspell       update-fonts-scale          update-language             update-rc.d                                           
+update-default-ispell       update-grub                 update-language-dat         update_rubygems                                       
+[Jupdate-default-wordlist     [Jupdate-grub2                [Jupdate-language-def         [Jupdate-shells               [J                          [10A[0m[27m[24m[0m[39m[4Cupdate[K[0m[39m[4m[37mu[4m[37mp[4m[37md[4m[37ma[4m[37mt[4m[37me[4m[37m-[24m[39m[4m[37m-[4m[37ma[24m[39m[4m[37ma[4m[37ml[24m[39m[4m[37ml[4m[37mt[24m[39m[10D[24m[36mu[24m[36mp[24m[36md[24m[36ma[24m[36mt[24m[36me[24m[36m-[24m[36ma[24m[36ml[24m[36mt[36mernatives[39m[1m [0m[0m [32m-[39m[32m-[32m-[39m[32m-[32mc[39m[32mc[32mo[39m[32mo[32mn[39m[32mn[32mf[39m[32mf[32mi[39m[32mi[32mg[39m [1mj[0m[1mj[1ma[0m[1ma[1mv[0m[1mv[1ma[0m[?1l>[?2004l[0mj[0ma[0mv[0ma
+[JThere are 2 choices for the alternative java (providing /usr/bin/java).
+
+  Selection    Path                                         Priority   Status
+------------------------------------------------------------
+* 0            /usr/lib/jvm/java-17-openjdk-amd64/bin/java   1711      auto mode
+  1            /home/kali/Downloads/jdk-21.0.1/bin/java      105       manual mode
+  2            /usr/lib/jvm/java-17-openjdk-amd64/bin/java   1711      manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 1
+update-alternatives: using /home/kali/Downloads/jdk-21.0.1/bin/java to provide /usr/bin/java (java) in manual mode
+                                                                                                                                                                   ]0;root@codebydevops: /home/kali
+[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿codebydevops[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mj[0m[1mj[0m[38;2;153;153;153mava -version[39m[12D[1mj[39m[1ma[0m[1mj[1ma[39m[1mv[0m[0m[36mj[0m[36ma[0m[36mv[36ma[39m[39m [32m-[39m[32m-[32mv[32me[32mr[32ms[32mi[32mo[32mn[39m[?1l>[?2004l
+java version "21.0.1" 2023-10-17 LTS
+Java(TM) SE Runtime Environment (build 21.0.1+12-LTS-29)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.1+12-LTS-29, mixed mode, sharing)
+                                                                                                                                                                   ]0;root@codebydevops: /home/kali
+[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿codebydevops[0m[31m[34m)-[[1m[34m[39m/home/kali[0m[34m]
+└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4m[37me[24m[39m[4m[37me[24m[39m[38;2;153;153;153mxit[39m[24m[36me[36mx[39m[4m[37me[4m[37mx[4m[37mi[24m[39m[24m[36me[24m[36mx[24m[36mi[36mt[39m[?1l>[?2004l
+
+Script done on 2023-10-31 22:53:28+03:00 [COMMAND_EXIT_CODE="0"]
